@@ -28,3 +28,21 @@ The dataset follows the following directory structure:
 
 ## Download Link
 You can download the dataset from the following link:
+https://pan.baidu.com/s/1Fd4DkQb3RRA9Jl5SKnYTYg password:asgf
+
+## Citation
+If you use this dataset in your research or project, please cite the relevant papers or repositories as follows:
+
+@misc{blenderproc,
+    author = {DLR-RM},
+    title = {BlenderProc},
+    year = {2022},
+    url = {https://github.com/DLR-RM/BlenderProc}
+}
+
+@misc{neuralrgbd,
+    author = {Dazinovic, Zoran},
+    title = {Neural RGB-D Surface Reconstruction},
+    year = {2022},
+    url = {https://github.com/dazinovic/neural-rgbd-surface-reconstruction}
+}
